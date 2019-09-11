@@ -1,6 +1,6 @@
 # vscode-snippets
 
-Visual Studio Code (VScode) snippets by [KargWare](https://kargware.com).  
+Visual Studio Code ([VScode](https://code.visualstudio.com/)) snippets by [KargWare](https://kargware.com).  
 
 [Documentation of Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
