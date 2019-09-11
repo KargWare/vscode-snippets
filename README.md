@@ -1,6 +1,6 @@
 # vscode-snippets
 
-Visual Studio Code (VScode) snippets by [KargWare](https:/kargware.com).  
+Visual Studio Code (VScode) snippets by [KargWare](https://kargware.com).  
 
 [Documentation of Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
@@ -8,7 +8,7 @@ Visual Studio Code (VScode) snippets by [KargWare](https:/kargware.com).
 
 The snippets can be installed global, in folder scope or in your workspace. Drop the `*.code-snippets` file or even files in the hidden `.vscode` folder, if the folder is not there you can just create it.  
 
-Each snippet is defined under a snippet name and has a scope, prefix, body and description.  
+Each snippet is defined under a `snippet name` and has a **prefix** and **body**, **scope** and **description** are optional.  
 
 All snippets from KargWare stars with `kw-`. To use them start typing `kw-` and press `Ctrl+Space` to start autocompletion (suggestions will shown as list). 
 
